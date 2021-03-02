@@ -1,0 +1,7 @@
+Running: xsim.dir/inmultireBooth_tb_func_synth/xsimk.exe -simmode gui -wdb inmultireBooth_tb_func_synth.wdb -simrunnum 0 -socket 55194
+Design successfully loaded
+Design Loading Memory Usage: 6824 KB (Peak: 6824 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7428 KB (Peak: 7428 KB)
+Simulation CPU Usage: 15 ms

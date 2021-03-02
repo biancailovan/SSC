@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.4/project_5.4.sim/sim_1/synth/func/xsim/inmultire_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'FDN'
+INFO: [VRFC 10-3107] analyzing entity 'SRRN'
+INFO: [VRFC 10-3107] analyzing entity '\SRRN__parameterized0\'
+INFO: [VRFC 10-3107] analyzing entity 'UC'
+INFO: [VRFC 10-3107] analyzing entity 'inmultire'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.4/project_5.4.srcs/sim_1/new/inmultire_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'inmultire_tb'

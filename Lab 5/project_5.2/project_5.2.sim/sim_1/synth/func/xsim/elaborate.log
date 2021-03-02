@@ -1,0 +1,23 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 8b186c0d545448faa88f04f5aa61a40e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot inmultireBooth_tb_func_synth xil_defaultlib.inmultireBooth_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.FDN [\FDN(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.FD [fd_default]
+Compiling architecture behavioral of entity xil_defaultlib.SRRN [\SRRN(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.ADDN [\ADDN(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.UC [\UC(n=8)\]
+Compiling architecture behavioral of entity xil_defaultlib.inmultireBooth [inmultirebooth_default]
+Compiling architecture behavioral of entity xil_defaultlib.inmultirebooth_tb
+Built simulation snapshot inmultireBooth_tb_func_synth

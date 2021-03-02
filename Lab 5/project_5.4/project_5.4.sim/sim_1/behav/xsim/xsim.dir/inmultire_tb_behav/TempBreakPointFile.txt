@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+75 true C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.4/project_5.4.srcs/sources_1/new/inmultire.vhd

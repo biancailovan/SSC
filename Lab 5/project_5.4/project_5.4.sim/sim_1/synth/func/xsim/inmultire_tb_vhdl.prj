@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"inmultire_tb_func_synth.vhd" \
+"../../../../../project_5.4.srcs/sim_1/new/inmultire_tb.vhd" \
+
+# Do not sort compile order
+nosort

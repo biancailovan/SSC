@@ -1,0 +1,192 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Nov  9 18:04:24 2020
+# Process ID: 20156
+# Current directory: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9744 C:\Users\bianc\Desktop\Facultate\An 3\SSC\Laborator\Laborator 6\project_5.2\project_5.2.xpr
+# Log file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/vivado.log
+# Journal file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.xpr}
+update_compile_order -fileset sources_1
+import_files -norecurse {{C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 4/project_4.6/project_4.6.srcs/sources_1/imports/new/displ7seg.vhd}}
+update_compile_order -fileset sources_1
+close [ open {C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.srcs/sources_1/new/inmultireBoothPlaca.vhd} w ]
+add_files {{C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.srcs/sources_1/new/inmultireBoothPlaca.vhd}}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+add_files -fileset constrs_1 -norecurse {{C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 4/project_4.6/project_4.6.srcs/constrs_1/imports/Laborator 4/Nexys4DDR_Master.xdc}}
+import_files -fileset constrs_1 {{C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 4/project_4.6/project_4.6.srcs/constrs_1/imports/Laborator 4/Nexys4DDR_Master.xdc}}
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+reset_run synth_1
+launch_runs synth_1 -jobs 4
+wait_on_run synth_1
+launch_runs impl_1 -jobs 4
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+wait_on_run impl_1
+close_sim
+launch_simulation
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+close_sim
+launch_simulation
+source inmultireBooth_tb.tcl
+add_bp {C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.srcs/sim_1/new/inmultireBooth_tb.vhd} 80
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation -mode post-synthesis -type functional
+source inmultireBooth_tb.tcl
+launch_simulation
+launch_simulation
+launch_simulation

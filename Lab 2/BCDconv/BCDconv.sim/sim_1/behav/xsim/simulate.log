@@ -1,0 +1,36 @@
+Vivado Simulator 2020.1
+Time resolution is 1 ps
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''0''0''0') /= valoare obtinuta ('U''U''U''U''U''U''U''U')time = 0 ps
+Time: 0 ps  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''0''0''0') /= valoare obtinuta ('0''0''0''0''0''0''0''1')time = 50000 ps
+Time: 50 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''0''0''1') /= valoare obtinuta ('0''0''0''0''0''0''1''0')time = 100000 ps
+Time: 100 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''0''1''0') /= valoare obtinuta ('0''0''0''0''0''0''1''1')time = 150000 ps
+Time: 150 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''0''1''1') /= valoare obtinuta ('0''0''0''0''0''1''0''0')time = 200000 ps
+Time: 200 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''1''0''0') /= valoare obtinuta ('0''0''0''0''0''1''0''1')time = 250000 ps
+Time: 250 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''1''0''1') /= valoare obtinuta ('0''0''0''0''0''1''1''0')time = 300000 ps
+Time: 300 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''1''1''0') /= valoare obtinuta ('0''0''0''0''0''1''1''1')time = 350000 ps
+Time: 350 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('0''1''1''1') /= valoare obtinuta ('0''0''0''0''1''0''0''0')time = 400000 ps
+Time: 400 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('1''0''0''0') /= valoare obtinuta ('0''0''0''0''1''0''0''1')time = 450000 ps
+Time: 450 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''0'Rezultat asteptat BCD0 ('1''0''0''1') /= valoare obtinuta ('0''0''0''1''0''0''0''0')time = 500000 ps
+Time: 500 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''1'Rezultat asteptat BCD0 ('0''0''0''0') /= valoare obtinuta ('0''0''0''1''0''0''0''1')time = 550000 ps
+Time: 550 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''1'Rezultat asteptat BCD0 ('0''0''0''1') /= valoare obtinuta ('0''0''0''1''0''0''1''0')time = 600000 ps
+Time: 600 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''1'Rezultat asteptat BCD0 ('0''0''1''0') /= valoare obtinuta ('0''0''0''1''0''0''1''1')time = 650000 ps
+Time: 650 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''1'Rezultat asteptat BCD0 ('0''0''1''1') /= valoare obtinuta ('0''0''0''1''0''1''0''0')time = 700000 ps
+Time: 700 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Error: Rezultat asteptat BCD1 ('0''0''0''1'Rezultat asteptat BCD0 ('0''1''0''0') /= valoare obtinuta ('0''0''0''1''0''1''0''1')time = 750000 ps
+Time: 750 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd
+Note: Testare terminata cu 16erori
+Time: 800 ns  Iteration: 0  Process: /BCDconv_tb/gen_vec_test  File: C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd

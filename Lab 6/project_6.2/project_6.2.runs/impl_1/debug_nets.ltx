@@ -1,0 +1,108 @@
+{
+    "ltx_root": {
+        "version": 4,
+        "minor": 0,
+        "ltx_data": [
+            {
+                "name": "EDA_PROBESET",
+                "active": true,
+                "debug_cores": [
+                    {
+                        "type": "XSDB_V3",
+                        "name": "dbg_hub",
+                        "spec": "labtools_xsdbm_v3",
+                        "clk_input_freq_hz": "100000000"
+                    },
+                    {
+                        "type": "VIO_V2",
+                        "name": "VIO",
+                        "spec": "labtools_vio_v3",
+                        "ipName": "vio",
+                        "core_location": {
+                            "user_chain": 1,
+                            "slave_index": 0,
+                            "bscan_switch_index": 0
+                        },
+                        "uuid": "5C301E9C51FC599C9F7225787312647B",
+                        "pins": [
+                            {
+                                "name": "probe_in0",
+                                "id": 0,
+                                "type": "DATA",
+                                "direction": "IN",
+                                "isVector": true,
+                                "leftIndex": 0,
+                                "rightIndex": 0,
+                                "portIndex": 0,
+                                "nets": [
+                                    {
+                                        "name": "TXRdy_sgn",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe_in0",
+                                "id": 1,
+                                "type": "DATA",
+                                "direction": "IN",
+                                "isVector": true,
+                                "leftIndex": 1,
+                                "rightIndex": 1,
+                                "portIndex": 0,
+                                "nets": [
+                                    {
+                                        "name": "Tx_sgn",
+                                        "isBus": false
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "probe_out0",
+                                "id": 2,
+                                "type": "DATA",
+                                "direction": "OUT",
+                                "isVector": true,
+                                "leftIndex": 0,
+                                "rightIndex": 7,
+                                "portIndex": 0,
+                                "nets": [
+                                    {
+                                        "name": "TxData",
+                                        "isBus": true,
+                                        "subnets": [
+                                            {
+                                                "name": "TxData[7]"
+                                            },
+                                            {
+                                                "name": "TxData[6]"
+                                            },
+                                            {
+                                                "name": "TxData[5]"
+                                            },
+                                            {
+                                                "name": "TxData[4]"
+                                            },
+                                            {
+                                                "name": "TxData[3]"
+                                            },
+                                            {
+                                                "name": "TxData[2]"
+                                            },
+                                            {
+                                                "name": "TxData[1]"
+                                            },
+                                            {
+                                                "name": "TxData[0]"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

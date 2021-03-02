@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec  2 15:27:34 2020
+# Process ID: 27688
+# Current directory: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 8/project_6.3/project_6.3.runs/impl_1
+# Command line: vivado.exe -log modulPrincipal.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source modulPrincipal.tcl -notrace
+# Log file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 8/project_6.3/project_6.3.runs/impl_1/modulPrincipal.vdi
+# Journal file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 8/project_6.3/project_6.3.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source modulPrincipal.tcl -notrace

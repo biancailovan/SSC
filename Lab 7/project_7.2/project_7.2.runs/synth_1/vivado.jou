@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Dec  9 09:10:11 2020
+# Process ID: 51828
+# Current directory: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 10/project_7.2/project_7.2.runs/synth_1
+# Command line: vivado.exe -log modul_principal_nexys.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source modul_principal_nexys.tcl
+# Log file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 10/project_7.2/project_7.2.runs/synth_1/modul_principal_nexys.vds
+# Journal file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 10/project_7.2/project_7.2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source modul_principal_nexys.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sources_1/new/BCDconv.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCDconv'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/bianc/Desktop/Facultate/An3/SSC/Laborator/Laborator 2/BCDconv/BCDconv.srcs/sim_1/new/BCDconv_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'BCDconv_tb'

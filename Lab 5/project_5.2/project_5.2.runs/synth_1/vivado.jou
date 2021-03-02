@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov 11 11:16:36 2020
+# Process ID: 29304
+# Current directory: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.runs/synth_1
+# Command line: vivado.exe -log inmultireBoothPlaca.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source inmultireBoothPlaca.tcl
+# Log file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.runs/synth_1/inmultireBoothPlaca.vds
+# Journal file: C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source inmultireBoothPlaca.tcl -notrace

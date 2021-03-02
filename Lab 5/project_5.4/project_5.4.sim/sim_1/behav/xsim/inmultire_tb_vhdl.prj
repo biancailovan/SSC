@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_5.4.srcs/sources_1/imports/new/ADDN.vhd" \
+"../../../../project_5.4.srcs/sources_1/imports/new/FDN.vhd" \
+"../../../../project_5.4.srcs/sources_1/imports/new/SRRN.vhd" \
+"../../../../project_5.4.srcs/sources_1/new/UC.vhd" \
+"../../../../project_5.4.srcs/sources_1/new/inmultire.vhd" \
+"../../../../project_5.4.srcs/sim_1/new/inmultire_tb.vhd" \
+
+# Do not sort compile order
+nosort

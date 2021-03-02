@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+80 true C:/Users/bianc/Desktop/Facultate/An 3/SSC/Laborator/Laborator 6/project_5.2/project_5.2.srcs/sim_1/new/inmultireBooth_tb.vhd
